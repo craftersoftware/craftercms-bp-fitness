@@ -19,18 +19,18 @@ plugin:
     Fitness is a Crafter CMS blueprint for a Fitness Club site
   website:
     name: Fitness
-    url: https://github.com/rivetlogic/craftercms-bp-fitness.git
+    url: https://github.com/craftersoftware/craftercms-bp-fitness
   media:
     screenshots:
       - title: Home Section
         description: Screenshot of the home section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-fitness/master/static-assets/images/screenshots/bp_fitness_home.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-fitness/5/static-assets/images/screenshots/bp_fitness_home.png"
       - title: Trainers Section
         description: Screenshot of the trainers section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-fitness/master/static-assets/images/screenshots/bp_fitness_trainers.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-fitness/5/static-assets/images/screenshots/bp_fitness_trainers.png"
       - title: Prices Section
         description: Screenshot of the prices section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-fitness/master/static-assets/images/screenshots/bp_fitness_prices.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-fitness/5/static-assets/images/screenshots/bp_fitness_prices.png"
   developer:
     company:
       name: Rivet Logic
